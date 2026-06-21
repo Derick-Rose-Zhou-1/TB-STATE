@@ -1,6 +1,8 @@
 # TB-STATE Model Checkpoint
 
-这是 TB-STATE 项目的模型文件发布仓库，用于支持 manuscript 的 Code Availability / Model Availability 要求。
+We have developed TB-STATE (Tuberculosis Single-cell Transcriptomic Analysis of Transcriptional Evolution), an AI-driven VAE framework that integrates single-cell and bulk blood transcriptomic data to identify TB-related biomarker programmes, support disease-state discrimination and stratify future progression risk through interpretable PBMC immune-state features. TB-STATE currently supports three applications: HC-TB infection-TB disease-state discrimination, future-progression risk stratification using VAE-derived cell-state features, and exploratory immune-state analysis of advanced TB branches including DTB, TPE, TBM and other active-TB manifestations.
+![Uploading image.png…]()
+
 
 本仓库提供训练完成的 TB-STATE model checkpoint，方便审稿人和读者确认模型文件已公开保存，并可在获得相应数据与代码后进行复现或后续分析。
 
